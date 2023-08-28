@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+# Nino Pizzo's First CS193 Homework
+- I like how it is taught by former students
+- I like how there are no exams
+- I like how I will get to explore tools to help me grow my CS skills
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
